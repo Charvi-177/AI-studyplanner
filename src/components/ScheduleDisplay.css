@@ -1,0 +1,26 @@
+.schedule-display {
+  padding: 40px 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.schedule-display h2 {
+  font-size: 2.2rem;
+  color: #1e3a8a;
+  margin-bottom: 25px;
+}
+
+.schedule-box {
+  background-color: #e6f0ff;
+  padding: 25px;
+  margin: 0 auto;
+  border-radius: 15px;
+  border: 2px solid #4f699c;
+  max-width: 600px;
+}
+
+.schedule-box p {
+  font-size: 1.5rem;
+  color: #333;
+  margin: 12px 0;
+}

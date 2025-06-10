@@ -1,0 +1,32 @@
+.habit-tracker {
+  padding: 40px 20px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fff0f5;
+  border-top: 2px solid #ffcce5;
+}
+
+.habit-tracker h2 {
+  font-size: 3rem;
+  color: #c2185b;
+  margin-bottom: 20px;
+}
+
+.habit-tracker ul {
+  list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.habit-tracker li {
+  background-color: #ffe3ec;
+  border: 1px solid #f9c3d7;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin: 10px 0;
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-between;
+  color: #6a1b4d;
+}

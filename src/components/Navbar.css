@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #042753;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  align-items: center;
+}
+
+.navbar a {
+  color: rgb(244, 245, 247);
+  margin-left: 20px;
+  text-decoration: solid;
+  font-weight: bold;
+}
